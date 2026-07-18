@@ -541,16 +541,16 @@ void loop() {
     tft.setLogging();
     Serial.println(
         "\n"
-        "██████  ██████  ██    ██  ██████ ███████ \n"
-        "██   ██ ██   ██ ██    ██ ██      ██      \n"
-        "██████  ██████  ██    ██ ██      █████   \n"
-        "██   ██ ██   ██ ██    ██ ██      ██      \n"
-        "██████  ██   ██  ██████   ██████ ███████ \n"
-        "                                         \n"
-        "         PREDATORY FIRMWARE\n\n"
+        " \n"
+        "  HACKING  \n"
+        "   WIFI ATTACKS \n"
+        "   BLE SPAN  \n"
+        " ALL IN OUR \n"
+        "                 QUERYFOLK                \n"
+        "         hackFIRMWARE\n\n"
         "Tips: Connect to the WebUI for better experience\n"
         "      Add your network by sending: wifi add ssid password\n\n"
-        "At your command:"
+        ""
     );
 
     // Enable navigation through webUI
